@@ -40,6 +40,5 @@ self.addEventListener('activate', (event) => {
             })
         ))
 
-
     )
 });
